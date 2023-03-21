@@ -9,6 +9,6 @@ spec:
     name: ocm-with-helm
     namespace: ocm-system
   resource:
-    name: deployment
+    name: backend-app-chart
   snapshotTemplate:
     name: ocm-with-helm-snap-deployment
