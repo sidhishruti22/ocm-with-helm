@@ -5,9 +5,9 @@ metadata:
   namespace: ocm-system
 spec:
   interval: 10m0s
-  component: github.com/sidhishruti22/backend-application-helm
+  component: github.com/sidhishruti22/backend-application-helm/backend-charts-helm
   version:
-    semver: v1.0.0
+    semver: 0.1.0
   repository:
     url: ghcr.io/sidhishruti22
     secretRef:
