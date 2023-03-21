@@ -11,4 +11,4 @@ spec:
   resource:
     name: backend-app-chart
   snapshotTemplate:
-    name: ocm-with-helm-snap-deployment
+    name: ocm-with-helm-snapshot-deployment
