@@ -11,7 +11,7 @@ spec:
   source:
     sourceRef:
       kind: Snapshot
-      name: ocm-with-helm-snap-deployment
+      name: ocm-with-helm-snapshot-deployment
       namespace: ocm-system
   configRef:
     resource:
